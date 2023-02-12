@@ -1,0 +1,21 @@
+h1 {
+    color: red;
+    font-size: xx-large;
+    font-weight: 900;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+
+.background-color {
+    background-color: aquamarine;
+    padding: 5rem;
+}
+
+.second-section {
+    border: 3px solid blue;
+
+}
+
+.third {
+    text-align: center;
+}
